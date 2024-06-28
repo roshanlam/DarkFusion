@@ -1,0 +1,23 @@
+{
+    "name": "dark-fusion-theme",
+    "displayName": "Dark Fusion Theme",
+    "description": "A custom theme combining elements from Atom One Dark Pro, JetBrains, and Gruvbox, with enhanced Markdown support.",
+    "version": "0.0.1",
+    "publisher": "Roshan Lamichhane",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Fusion",
+                "uiTheme": "vs-dark",
+                "path": "./theme.json"
+            }
+        ]
+    }
+}
+
