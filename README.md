@@ -1,6 +1,6 @@
 # DarkFusion
 
-# Dark Fusion Theme
+![screenshot example](./DarkFusion.png)
 
 Dark Fusion is a custom Visual Studio Code theme that combines elements from Atom One Dark Pro, JetBrains' default theme, and Gruvbox, with enhanced Markdown support. It provides a visually appealing and comfortable coding experience.
 
