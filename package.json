@@ -3,9 +3,13 @@
     "displayName": "Dark Fusion Theme",
     "description": "A custom theme combining elements from Atom One Dark Pro, JetBrains, and Gruvbox, with enhanced Markdown support.",
     "version": "0.0.1",
-    "publisher": "Roshan Lamichhane",
+    "publisher": "roshanlam",
     "engines": {
         "vscode": "^1.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/roshanlam/DarkFusion.git"
     },
     "categories": [
         "Themes"
