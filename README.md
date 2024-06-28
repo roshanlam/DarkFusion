@@ -21,16 +21,19 @@ Dark Fusion is a custom Visual Studio Code theme that combines elements from Ato
 
 1. **Clone the Repository**:
    ```sh
-   git clone <repository-url>
-   cd dark-fusion-theme```
+   git clone git@github.com:roshanlam/DarkFusion.git
+   cd dark-fusion-theme
+   ```
 
 2. Install vsce (Visual Studio Code Extension Manager)
     ```sh
-    npm install -g vsce```
+    npm install -g vsce
+    ```
 
 3. Package the Theme
     ```sh
-    vsce package```
+    vsce package
+    ```
 
     This will create a .vsix file in the directory.
 
